@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/falcons-panthers-tictactoe/static/css/main.286facd2.css",
+    "main.js": "/falcons-panthers-tictactoe/static/js/main.0f7bb70f.js",
+    "index.html": "/falcons-panthers-tictactoe/index.html",
+    "main.286facd2.css.map": "/falcons-panthers-tictactoe/static/css/main.286facd2.css.map",
+    "main.0f7bb70f.js.map": "/falcons-panthers-tictactoe/static/js/main.0f7bb70f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286facd2.css",
+    "static/js/main.0f7bb70f.js"
+  ]
+}
